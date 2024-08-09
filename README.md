@@ -1,4 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! Eu me chamo João Ferreira! 👋
 
-- 🔭 • Estudante de Análise e Desenvolvimento de Sistemas.
+- 🎉 • Idade: 20y
+- 🔭 • Cursando: Análise e Desenvolvimento de Sistemas.
+- 📚 • Estudando: Desenvolvimento Mobile & IOT.
 - 😄 • Pronomes: Ele/Dele.
