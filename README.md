@@ -8,7 +8,7 @@
  <div>
    <a href="https://github.com/yJoaoFerreira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haisuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haisuu&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yJoaoFerreira&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
