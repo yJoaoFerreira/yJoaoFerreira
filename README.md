@@ -34,6 +34,6 @@
 
 ##
 
-### Cobrinha de Contribuições
+### Cobra de Contribuições (Not Work)
 
 ![Snake animation](https://github.com/yJoaoFerreira/yJoaoFerreira/blob/output/github-contribution-grid-snake.svg)
