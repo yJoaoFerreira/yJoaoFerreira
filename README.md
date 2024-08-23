@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! Eu me chamo João Ferreira! 👋
 
-- 🎉 **Idade**: 20 anos
+- 🎉 **Idade**: 20 anos (22/07)
 - 🔭 **Cursando**: Análise e Desenvolvimento de Sistemas
 - 📚 **Estudando**: Desenvolvimento Mobile & IoT
 - 😄 **Pronomes**: Ele/Dele
