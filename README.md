@@ -2,7 +2,7 @@
 
 - 🎉 **Idade**: 20 anos (22/07)
 - 🔭 **Cursando**: Análise e Desenvolvimento de Sistemas (ADS)
-- 📚 **Estudando**: Desenvolvimento Mobile & IoT
+- 📚 **Estudando**: Desenvolvimento Mobile, IoT e Desenvolvimento RAD
 - 😄 **Pronomes**: Ele/Dele
 
 <div align="center">
